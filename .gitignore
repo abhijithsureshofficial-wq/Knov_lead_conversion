@@ -1,0 +1,11 @@
+# --- Data Privacy ---
+# Raw CRM data containing PII-like fields (names, phones, emails). Keep private.
+Unified_Leads.csv
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- OS ---
+.DS_Store
